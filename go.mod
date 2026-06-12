@@ -13,14 +13,14 @@ require (
 	github.com/jmhodges/clock v1.2.0
 	github.com/klauspost/compress v1.18.3
 	github.com/leonelquinteros/gotext v1.5.0
-	github.com/mattn/go-isatty v0.0.4
+	github.com/mattn/go-isatty v0.0.22
 	github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0
 	github.com/pkg/errors v0.0.0-20170505043639-c605e284fe17
 	github.com/rubyist/tracerx v0.0.0-20170927163412-787959303086
 	github.com/spf13/cobra v1.7.0
 	github.com/ssgelm/cookiejarparser v1.0.1
 	github.com/stretchr/testify v1.6.1
-	github.com/xeipuuv/gojsonschema v0.0.0-20170210233622-6b67b3fab74d
+	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/net v0.56.0
 	golang.org/x/sync v0.21.0
 	golang.org/x/sys v0.46.0
