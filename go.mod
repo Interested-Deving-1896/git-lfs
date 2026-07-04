@@ -11,7 +11,7 @@ require (
 	github.com/git-lfs/wildmatch/v2 v2.0.1
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8
 	github.com/jmhodges/clock v1.2.0
-	github.com/klauspost/compress v1.18.3
+	github.com/klauspost/compress v1.18.7
 	github.com/leonelquinteros/gotext v1.5.0
 	github.com/mattn/go-isatty v0.0.22
 	github.com/olekukonko/ts v0.0.0-20171002115256-78ecb04241c0
@@ -19,7 +19,7 @@ require (
 	github.com/rubyist/tracerx v0.0.0-20170927163412-787959303086
 	github.com/spf13/cobra v1.7.0
 	github.com/ssgelm/cookiejarparser v1.0.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.11.1
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/net v0.56.0
 	golang.org/x/sync v0.21.0
